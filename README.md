@@ -22,3 +22,9 @@ A role-based access control system with four user levels: Super Admin, Admin, Ma
 ---
 
 ## 📁 Project Structure (Example Idea)
+git add README.md
+git commit -m "Add initial role-based README with access matrix"
+git push origin main
+mkdir -p client server/config server/routes server/controllers models
+touch client/index.html client/style.css client/dashboard.js
+touch server/server.js
